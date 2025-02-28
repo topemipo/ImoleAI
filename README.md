@@ -44,7 +44,7 @@ The **core components** of the system include:
 
 ---
 
-## **Access Imole:
+## Access Imole:
 Web App: https://walrus-app-d2ols.ondigitalocean.app/
 
 Streamlit: https://imoleailegaladvisor.streamlit.app/
