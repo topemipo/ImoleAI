@@ -1,0 +1,54 @@
+Timestamp,What number did you pick?,What is the name of the case returned?,Does the response contain all the necessary legal elements?, Does the response correctly address the legal question? Did you think the answer given relates to the query you asked?,Is the response easy to understand and well-structured? Was it easy on the eyes to quickly skim through?,Is the response concise without missing key details? Did the question go straight to the point and didn't make too many unneccesary information?,"For legal professionals, do you think the response this chatbot gave is good advice and is useful for people to have a basic understanding of their legal situation",Can you test the voice mode on the chatbot? Please ask your query again but in voice mode this time. Did it work?,Can you press the play button below the query you sent through voice mode? Did that work too?,The edit button attached to the query box? Can you check if editing your query and sending it again works?
+2/25/2025 20:21:45,1,"Ranchhodji Chaturji Thakore v The Superintendent Engineer, Gujarat Electricity Board, Himmatnagar",3,No,Yes,Yes,Yes,No,No,FALSE
+2/24/2025 22:25:19,2,State of Uttar Pradesh v Mohammad Naim,5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 15:52:25,3,Pepsi Foods Limited and Another v. Special Judicial Magistrate and Others,4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,FALSE
+2/25/2025 12:04:32,4,State Of Bihar v Ramesh Singh (Criminal Appeal No. 51 of 1977),3,Yes,Yes,No,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 15:00:35,5,Hari Kishan And Anr. v Sukhbir Singh And Ors (Criminal Appeal No. 74 and 75 of 1986),5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 11:55:21,6,State of Punjab and Others v Ram Lubhaya Bagga and Others,4,Yes,Yes,No,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 12:41:38,7,C. Chenga Reddy and Others v State of Andhra Pradesh,3,No,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 14:01:01,7,Crime,4,Yes,No,Yes,Yes,Yes,No,TRUE
+2/24/2025 23:02:06,8,Padala Veera Reddy v State of Andhra Pradesh and Others (Criminal Appeal No. 420 of 1989),3,No,Yes,Yes,No,No,No,FALSE
+2/24/2025 20:21:10,9,Ghurey Lal v State of Uttar Pradesh,4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,FALSE
+2/24/2025 19:59:41,10,"If five people are charged with the same crime, why was 
+only one person's appeal accepted while the others were rejected? Is this 
+fair?""",5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 6:38:10,11,T.A. Abdul Rahman v State Of Kerala And Ors.,4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/24/2025 21:43:47,12,Rajendrakumar Natvarlal Shah v State of Gujarat and Others,5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 12:37:17,13,"Ranchhodji Chaturji Thakore v The Superintendent Engineer, Gujarat Electricity Board, Himmatnagar",4,No,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 13:20:39,13,Kuldeep Singh v Commissioner of Police and Others,4,No,No,No,Yes,Yes,Yes,TRUE
+2/24/2025 21:05:39,14,"Ghurey Lal v State of Uttar Pradesh (Supreme Court of India, 2008)",4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,FALSE
+2/25/2025 16:01:15,15,"My mother witnessed my father's murder and was injured trying to save him. She testified in court, but the attackers were found not guilty. Now a higher court reversed that decision - is this common in murder cases?""
+",3,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 18:25:42,17,Rajendrakumar Natvarlal Shah v State of Gujarat and Others,3,No,No,No,No,Yes,Yes,FALSE
+2/25/2025 13:02:54,18,"S. V. Chandra Pandian and Others v S. V. Sivalinga Nadar and Others, Supreme Court of India (1993)",4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 13:43:02,19,"Ghurey Lal v State of Uttar Pradesh (Supreme Court of India, 2008)",4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/24/2025 22:36:39,20,Brij Mohan and Others v. State of Rajasthan,5,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 6:44:16,21,"Secretary, State of Karnataka and Others v. Umadevi and Others",5,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 13:55:29,22, Padala Veera Reddy v State of Andhra Pradesh and Others (Criminal Appeal No. 420 of 1989),4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 8:51:43,24, Shriram Mandir Sansthan Alias Shri Ram Sansthan Pusda v Vatsalabai and Others,4,Yes,Yes,Yes,I'm not a legal professional,No,No,TRUE
+2/24/2025 21:40:58,25,Panna Lal Ghosh and Others v Land Acquisition Collector and Others,4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 0:54:29,26,"Teri Oat Estates (Private) Limited v U.T., Chandigarh and others [Supreme Court of India]",5,Yes,No,Yes,Yes,No,Yes,TRUE
+2/24/2025 20:23:37,27,Legal advice on Certificate of Sponsorship ,4,Yes,Yes,Yes,I'm not a legal professional,No,Yes,FALSE
+2/25/2025 17:13:58,28,Daya Singh v State of Haryana (Criminal Appeal No. 416 of 1998),4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 6:12:58,30,Narendra Singh & Anr v State Of M.P.,1,Yes,Yes,Yes,No,Yes,Yes,TRUE
+2/25/2025 12:13:12,31,NO case returned ,1,No,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 12:41:54,32," Ghurey Lal v State of Uttar Pradesh (Supreme Court of India, 2008)",3,Yes,Yes,Yes,I'm not a legal professional,No,No,FALSE
+2/25/2025 13:40:59,33,C.S. D. Swamy v State of India,5,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 17:45:47,34, Parkash Singh Badal And Anr v State Of Punjab And Ors,4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 17:11:52,35," Surinder Kumar v Union Territory, Chandigarh",5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 17:59:50,36,State of Punjab and Others v Ram Lubhaya Bagga and Others,4,Yes,Yes,Yes,Yes,Yes,Yes,TRUE
+2/25/2025 13:07:29,37,Zafar v State of U.P.,3,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 16:18:33,38, Pepsi Foods Limited and Another v. Special Judicial Magistrate and Others,4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/24/2025 21:50:35,39," ""A foreign student was accused of murdering his classmate 
+and stealing her belongings, but was later found not guilty by the High 
+Court. Can the prosecution appeal this decision and try to convict him 
+again?""",3,No,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/24/2025 20:06:09,40, Dr Ms. O.Z. Hussain v Union Of India And Ors.,5,Yes,Yes,Yes,I'm not a legal professional,No,Yes,TRUE
+2/25/2025 12:19:40,41,Zafar v State of U.P.,4,No,Yes,No,Yes,Yes,Yes,TRUE
+2/24/2025 21:46:02,42, C. Chenga Reddy and Others v State of Andhra Pradesh,5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 13:49:03,43,Sh. Satish Mehra v Delhi Administration,3,Yes,Yes,Yes,No,Yes,Yes,TRUE
+2/25/2025 13:46:51,45,"GHUREY LAL V state of uttar pradesh (Supreme court of India,2008)",5,Yes,Yes,Yes,No,Yes,Yes,TRUE
+2/25/2025 17:52:54,46,Ghurey Lal v State of Uttar Pradesh,4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/25/2025 18:09:37,47," Ghurey Lal v State of Uttar Pradesh (Supreme Court of India, 2008)",4,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/24/2025 21:50:57,49," Ranchhodji Chaturji Thakore v The Superintendent Engineer, Gujarat Electricity Board, Himmatnagar",5,Yes,Yes,Yes,I'm not a legal professional,Yes,Yes,TRUE
+2/24/2025 21:23:28,50,R. K. Lakshmanan v A. K. Srinivasan and Another,5,Yes,Yes,Yes,I'm not a legal professional,No,No,TRUE

@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+summarize/.DS_Store
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environment
+venv/
+
+# Other documents
+evaluation/
+
+# Dataset
+summarize/chosen_50/
+summarize/summaries.json
+summarize/summariesup.json
+summarize/error_log.txt
+summarize/remaining_136/
+
+#Local testing
+search_cases.py
+user_interface.py
+
+# update database
+update_db.py
